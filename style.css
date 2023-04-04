@@ -1,0 +1,13 @@
+body{
+background-position: center;
+background-size: cover;
+}
+.heading{
+    font-size: 20px;
+}
+.subHeading{
+    font-size: 15px;
+}
+#songName{
+    font-size: 20px;
+}
